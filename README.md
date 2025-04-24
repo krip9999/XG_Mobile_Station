@@ -1,4 +1,4 @@
-XG Mobile Dock
+098e2e27d8008f181db7c867df3124d41c9dfb4eXG Mobile Dock
 ==============
 This open source hardware allows you to connect any PCIe card to an ASUS ROG device with the XG Mobile connector.
 
